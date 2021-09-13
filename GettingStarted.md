@@ -38,7 +38,7 @@ build it.  Create a file on your computer called `_service` with the following c
         <param name="branch">master</param>
         <param name="revision"></param>
         </service>
-    </services>`
+    </services>
     ```
    And specify at least the URL.  If you want to build another branch, change the 
    branch name, and if you want to build a particular revision, specify a git hash
